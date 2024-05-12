@@ -1,5 +1,5 @@
 ## 2021 - 01
-  No primeiro semestre a Fatec apresentou o modelo de projeto PI (Projeto Integrador) onde a Fatec atuaria como uma empresa e apresentaria um problema para nós solucionarmos. Neste   primeiro trabalho minha equipe desenvolveu um aplicativo mobile voltado para automação, onde o sistema teria controle na iluminação e das persianas da residência. A partir disso o usuário poderá adicionar perfis para cada cômodo da casa, além de um timer para quanto tempo a lâmpada ficará acessa para aquele cômodo.
+No terceiro semestre na Fatec, foi passado o terceiro API onde trabalharíamos com a empresa parceira Ness Health. A empresa buscava desenvolver uma plataforma web voltada ao ensino à distância para a gestão e oferta de conhecimento, dando suporte às mais diversas arquiteturas de aprendizagem, utilizando o LMS (Learning Management System), uma ferramenta de aprendizado à distância com uma metodologia de alta desenvoltura, facilitando para empresas prepararem seus colaboradores em treinamentos. A plataforma web deve aceitar a publicação de arquivos SCORM, MP4, MP3, PDF, JPEG e PNG. Seu layout deve ser de fácil customização, possuindo templates pré-definidos, trazendo autonomia para gestão da plataforma.
 
 - [GitHub](https://github.com/fCardosoNeto/Beyond-Learning)
 
@@ -9,7 +9,7 @@
 
 -  MySQL - O MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structure Query Language – Linguagem de Consulta Estruturada), que é a linguagem mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco de dados. Foi utilizado para armazenar os dados presentes no sistema 
 
-- HTML, CSS e JS - 
+- HTML, CSS e JS - HTML é uma linguagem de marcação utilizada para estruturar os elementos da página; CSS é uma linguagem de estilos utilizada para definir cores, fontes, tamanhos, etc.; JavaScript é uma linguagem de programação utilizada para tornar a página mais dinâmica, lidando também com os dados enviados e recebidos na página. Foi utilizada no Frontend do projeto.
 
 - Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. Utilizado no Frontend do projeto.
 
@@ -17,12 +17,13 @@
 
 ### Contribuições pessoais 
 
-
+Durante o desenvolvimento do projeto, atuei como Scrum Master da equipe, tendo também pequenas participações no backend do projeto. Como Scrum Master, fiquei responsável por garantir que o time de desenvolvimento entendesse e seguisse os princípios e práticas do Scrum. Fiz uso das reuniões diárias (Daily Scrum), Revisão da Sprint (Sprint Review) e Planejamento da Sprint (Sprint Planning), ajudando a equipe a se manter focada, a resolver impedimentos e a alcançar os objetivos da sprint. Além disso, atuei como facilitador entre a equipe de desenvolvimento e outras partes interessadas. No backend, trabalhei no sistema de upload e download de arquivos da plataforma e na estrutura do banco de dados para aceitar os arquivos solicitados. 
 
 ### Hard Skills 
 
-- 
--
+- Java -
+- MySQL -
+- Figma -
 
 ### Soft Skills 
 
