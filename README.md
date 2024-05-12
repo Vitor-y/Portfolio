@@ -22,5 +22,5 @@ Durante o desenvolvimento do projeto, trabalhei junto com a equipe na solução 
 ### Soft Skills 
 
 - Comunicação - Durante as reuniões para o desenvolvimento do projeto, aprendi a expressar minhas ideias de forma clara e concisa. Por exemplo ao explicar e desenvolver minhas ideias para o sistema de controle de persianas dando exemplos práticos e 
-- Proatividade - Aprendi a resolver os problemas de maneira autônoma. Quando nos deparamos com problemas de programação no App Inventor, fiz pesquisas em documentações técnicas e em fóruns online para identificar e implementar as correções necessárias para oe
+- Proatividade - Aprendi a resolver os problemas de maneira autônoma. Quando nos deparamos com problemas de programação no App Inventor, fiz pesquisas em documentações técnicas e em fóruns online para identificar e implementar as correções necessárias para o projeto.
 - Colaboração - Através do trabalho em equipe no desenvolvimento do aplicativo no MIT App Inventor, aprimorei minha habilidade em colaborar efetivamente com colegas, compartilhando ideias, ouvindo ativamente o feedback e contribuindo para a melhoria contínua do projeto. 
