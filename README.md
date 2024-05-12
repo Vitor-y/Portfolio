@@ -5,7 +5,7 @@ No terceiro semestre na Fatec, foi passado o terceiro API onde trabalharíamos c
 
 ### Tecnologias Utilizadas
 
-- Java - Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui uma de suas principais carácteristicas a sua portabiidade, o que possibilita ser executada em diferentes plataformas sem a necessidade de recompilação. Ela foi utilizada no backend do projeto fazendo a conexão e a manipulação dos dados com o banco de dados e para o desenvolvimento das funcionalidade presentes no sistema.
+- Java - Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui uma de suas principais carácteristicas a sua portabiidade, o que possibilita ser executada em diferentes plataformas sem a necessidade de recompilação. Ela foi utilizada no backend do projeto fazendo a conexão e a manipulação dos dados com o banco de dados e para o desenvolvimento das funcionalidades presentes no sistema.
 
 -  MySQL - O MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structure Query Language – Linguagem de Consulta Estruturada), que é a linguagem mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco de dados. Foi utilizado para armazenar os dados presentes no sistema 
 
@@ -21,12 +21,12 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master da equipe, tendo t
 
 ### Hard Skills 
 
-- Java -
-- MySQL -
-- Figma -
+- Java - Meu segundo contato com a linguagem, pude aperfeiçoar minha lógica de programação e trabalhar na conexão com o banco de dados, sei desenvolver com ajuda. 
+- MySQL - Aprendi a arquitetar o banco para receber diferentes tipos de arquivos, sei desenvolver com ajuda.  
+- Figma - Meu primeiro contato com a plataforma, aprendi conceitos básicos de UI/UX como elementos de layout, cores, ícones, botões e a experiência geral do usuário ao interagir com o produto, sei desenvolver com autonômia. 
 
 ### Soft Skills 
 
-- Comunicação - 
-- Proatividade -
-- Colaboração - 
+- Comunicação - Como Master mantive uma comunicação transparente e aberta com todos os membros da equipe, garantindo que todos os membros estivessem alinhados com os objetivos do projeto. 
+- Proatividade - Tomei medidas proativas para resolver conflitos e encontrar soluções criativas para desafios complexos, garantindo o sucesso do projeto. Também lidei com mudanças que ocorreram durante o projeto ajustando as necessidades conforme era necessário.
+- Colaboração - Trabalhei de forma ativa com a equipe dando suporte em diferentes funcionalidades do sistema e nos elementos de layout para o frontend.
