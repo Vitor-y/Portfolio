@@ -36,3 +36,6 @@ Aqui estão todos os projetos que participei durante os semestres na Fatec São 
 - [Home Solutions - 1° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-01?tab=readme-ov-file)
 - [API - 2° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-02?tab=readme-ov-file) 
 - [Beyond Learning - 3° Semestre](https://github.com/Vitor-y/Portfolio/tree/2021-01?tab=readme-ov-file)
+- [Sirius - 4° Semestre](https://github.com/giovannialves01/Sirius)
+- [Efol-app - 5° Semestre](https://github.com/Vitor-y/eFol-app)
+- [Techguardian - 6° Semestre](https://github.com/Tech-Guardian/Doc_TechGuardian7)
