@@ -5,9 +5,9 @@ No segundo semestre na Fatec, foi passado o segundo API onde trabalharíamos com
 
 ### Tecnologias Utilizadas
 
-- Java - Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 que possui uma de suas principais carácteristicas a sua portabiidade, o que possibilita ser executada em diferentes plataformas sem a necessidade de recompilação. Ela foi utilizada no backend do projeto fazendo a conexão e a manipulação dos dados com o banco de dados e para o desenvolvimento das funcionalidade presentes no sistema. 
+- Java: Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação. No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.
 
-- PostgreSQL - PostgreSQL é um gerenciador de banco de dados relacionados. Seu foco é permitir implementação da linguagem SQL em estruturas, garantindo um trabalho com os padrões desse tipo de ordenação dos dados. Foi utilizado para armazenar os dados presentes no sistema 
+- PostgreSQL: PostgreSQL é um sistema gerenciador de banco de dados relacional que foca na implementação da linguagem SQL em estruturas, garantindo conformidade com os padrões de ordenação de dados. Foi utilizado para armazenar os dados presentes no sistema, assegurando a integridade e a eficiência do gerenciamento de informações.
 
 ### Contribuições pessoais 
 
