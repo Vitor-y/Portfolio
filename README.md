@@ -23,5 +23,5 @@ Neste projeto, atuei diretamente no frontend, participando da criação das tela
 
 ### Soft Skills 
 
-- CComunicação - Desenvolvi melhor minha habilidade de comunicação ao enfrentar a necessidade de relatar meus problemas decorrentes da falta de experiência com a tecnologia e na integração do frontend com o backend.
+- Comunicação - Desenvolvi melhor minha habilidade de comunicação ao enfrentar a necessidade de relatar meus problemas decorrentes da falta de experiência com a tecnologia e na integração do frontend com o backend.
 - Adaptabilidade - Demonstrei capacidade de me ajustar à nova tecnologia por meio de pesquisa, prática e buscando ajuda dos professores e da equipe. Isso me permitiu entregar as tarefas dentro do prazo determinado e aplicar os conhecimentos adquiridos no projeto.
