@@ -15,8 +15,8 @@ Durante o desenvolvimento do projeto, atuei como PO e tive pequenas participaç�
 
 ### Hard Skills 
 
-- Java - Como primeiro contato com a linguagem aprendi as noções básicas para a programação e sua lógica de desenvolvimento, sei desenvolver com ajuda. 
-- PostgreSQL - Aprendi a arquitetar o banco de dados e fazer consultas com o SQL, sei desenvolver com ajuda. 
+- Java - Como primeiro contato com a linguagem aprendi as noções básicas para a programação e sua lógica de desenvolvimento. Sei desenvolver com ajuda. 
+- PostgreSQL - Aprendi a arquitetar o banco de dados e fazer consultas com o SQL. Sei desenvolver com ajuda. 
 
 ### Soft Skills 
 
