@@ -1,41 +1,26 @@
-# Vitor Yuri Santos 
+## 2024 - 01
+No sexto semestre na Fatec, foi passado o sexto API onde trabalharíamos com a empresa parceira Pro4Tech. O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
 
-## Contatos 
-- [GitHub](https://github.com/Vitor-y)
-- [Linkedin](https://www.linkedin.com/in/vitor-yuri-48b477213/)
+- [GitHub](https://github.com/Tech-Guardian/Doc_TechGuardian7)
 
-## Introdução 
-Meu interesse por tecnologia vem desde a infância com os jogos de videogame, foi quando no ensino fundamental entrei para um curso de programação voltado para jogos na plataforma da unreal engine, com o passar do tempo fui me interessando cada vez mais por computadores e como eles funcionavam. Foi durante o ensino médio quando decidi em seguir carreira na área de tecnologia, comecei os estudos com programação na Fatec São José dos Campos onde atualmente estudo, já tendo trabalhado com diversos projetos e diversas tecnlogias, algumas delas sendo em Java, Python, JavaScript e entre outras linguagens e assim continuo aprimorando minhas habilidades até hoje. 
+### Tecnologias Utilizadas
 
-## Meus principais conhecimentos 
+- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.
 
-- Java/SpringBoot - Tive matérias voltada para essa tecnologia no 3°, 4° e 6° semestre e desenvolvi projetos que utilizavam Java com SpringBoot, possuo conhecimento intermediário. 
+- Python - Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi utilizada para o desenvolvimento da IA presente no sistema. 
 
-- Python/Flask - Desenvolvi em um projeto no 5° semestre que utilizava o Python no Backend junto ao Flask para o desenvolvimento web, possuo conhecimento básico. 
+- Vue.js - Vue.js é um framework progressivo de JavaScript usado para construir interfaces de usuário.
 
-- JavaScript - Tive estudos no 4° semestres voltada para essa tecnologia e coloquei em prática em um projeto no 5° semestre, possuo conhecimento básico.
+- MySQL - MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.
 
-- C - Tive uma matéria voltada para o estudo dessa tecnologia no 2° semestre, possuo conhecimento básico. 
+### Contribuições pessoais 
 
-- PHP - Desenvolvi em um projeto no 3° semestre, possuo conhecimento básico. 
+Em breve
 
-- HTML e CSS - Desenvolvi durante o curso, tanto em projetos como em sala de aula, possuo conhecimento intermediário. 
+### Hard Skills 
 
-- React/React Native - Desenvolvi em um projeto no 5° semestre, possuo conhecimento básico. 
+Em breve
 
-- MySQL/PostgreSQL - Tive aulas voltadas para o estudo dessa tecnologia durante os semestres, possuo conhecimento intermediário. 
+### Soft Skills 
 
-- MongoDB - Fiz dois cursos durante o 5° semestre da faculdade, possuo conhecimento básico.  
-
-- Docker - Desenvolvi em sala de aula no 5° semestre, possuo conhecimento básico. 
-
-## Meus projetos 
-
-Aqui estão todos os projetos que participei durante os semestres na Fatec São José dos Campos.
-
-- [Home Solutions - 1° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-01?tab=readme-ov-file)
-- [API - 2° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-02?tab=readme-ov-file) 
-- [Beyond Learning - 3° Semestre](https://github.com/Vitor-y/Portfolio/tree/2021-01?tab=readme-ov-file)
-- [Sirius - 4° Semestre](https://github.com/giovannialves01/Sirius)
-- [Efol-app - 5° Semestre](https://github.com/Vitor-y/eFol-app)
-- [Techguardian - 6° Semestre](https://github.com/Tech-Guardian/Doc_TechGuardian7)
+Em breve
