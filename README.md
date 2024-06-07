@@ -1,5 +1,5 @@
 ## 2022 - 01
-No quinto semestre na Fatec, trabalhamos no quinto API em parceria novamente com a Embraer. Neste projeto, a empresa solicitou um aplicativo móvel que pudesse notificar os clientes sobre atualizações das FOLs (arquivos em PDF referentes a problemas ou modificações nos automóveis). Além disso, eles queriam uma aplicação web para gerenciar os dados e informações dos seus clientes.
+No quinto semestre na Fatec, foi passado o quinto API onde trabalharíamos em parceria novamente com a Embraer. Neste projeto, a empresa solicitou um aplicativo móvel que pudesse notificar os clientes sobre atualizações das FOLs (arquivos em PDF referentes a problemas ou modificações nos automóveis). Além disso, eles queriam uma aplicação web para gerenciar os dados e informações dos seus clientes.
 
 - [GitHub](https://github.com/Vitor-y/eFol-app)
 
