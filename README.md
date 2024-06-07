@@ -21,9 +21,9 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master da equipe, tendo t
 
 ### Hard Skills 
 
-- Java - Meu segundo contato com a linguagem, pude aperfeiçoar minha lógica de programação e trabalhar na conexão com o banco de dados, sei desenvolver com ajuda. 
-- MySQL - Aprendi a arquitetar o banco para receber diferentes tipos de arquivos, sei desenvolver com ajuda.  
-- Figma - Meu primeiro contato com a plataforma, aprendi conceitos básicos de UI/UX como elementos de layout, cores, ícones, botões e a experiência geral do usuário ao interagir com o produto, sei desenvolver com autonômia. 
+- Java - Meu segundo contato com a linguagem, pude aperfeiçoar minha lógica de programação e trabalhar na conexão com o banco de dados. Sei desenvolver com ajuda. 
+- MySQL - Aprendi a arquitetar o banco para receber diferentes tipos de arquivo. Sei desenvolver com ajuda.  
+- Figma - Meu primeiro contato com a plataforma, aprendi conceitos básicos de UI/UX como elementos de layout, cores, ícones, botões e a experiência geral do usuário ao interagir com o produto. Sei desenvolver com autonômia. 
 
 ### Soft Skills 
 
