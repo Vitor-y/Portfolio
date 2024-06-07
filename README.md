@@ -1,41 +1,27 @@
-# Vitor Yuri Santos 
+## 2022 - 01
+No quinto semestre na Fatec, trabalhamos no quinto API em parceria novamente com a Embraer. Neste projeto, a empresa solicitou um aplicativo móvel que pudesse notificar os clientes sobre atualizações das FOLs (arquivos em PDF referentes a problemas ou modificações nos automóveis). Além disso, eles queriam uma aplicação web para gerenciar os dados e informações dos seus clientes.
 
-## Contatos 
-- [GitHub](https://github.com/Vitor-y)
-- [Linkedin](https://www.linkedin.com/in/vitor-yuri-48b477213/)
+- [GitHub](https://github.com/Vitor-y/eFol-app)
 
-## Introdução 
-Meu interesse por tecnologia vem desde a infância com os jogos de videogame, foi quando no ensino fundamental entrei para um curso de programação voltado para jogos na plataforma da unreal engine, com o passar do tempo fui me interessando cada vez mais por computadores e como eles funcionavam. Foi durante o ensino médio quando decidi em seguir carreira na área de tecnologia, comecei os estudos com programação na Fatec São José dos Campos onde atualmente estudo, já tendo trabalhado com diversos projetos e diversas tecnlogias, algumas delas sendo em Java, Python, JavaScript e entre outras linguagens e assim continuo aprimorando minhas habilidades até hoje. 
+### Tecnologias Utilizadas
 
-## Meus principais conhecimentos 
+- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.
 
-- Java/SpringBoot - Tive matérias voltada para essa tecnologia no 3°, 4° e 6° semestre e desenvolvi projetos que utilizavam Java com SpringBoot, possuo conhecimento intermediário. 
+- React Native - React Native é um framework de desenvolvimento de aplicativos móveis que permite criar aplicações para Android e iOS utilizando JavaScript e React. No projeto, React Native foi utilizado para desenvolver o aplicativo móvel proporcionando uma experiência de usuário nativa e responsiva.
 
-- Python/Flask - Desenvolvi em um projeto no 5° semestre que utilizava o Python no Backend junto ao Flask para o desenvolvimento web, possuo conhecimento básico. 
+- PostgreSQL - PostgreSQL é um sistema gerenciador de banco de dados relacional que foca na implementação da linguagem SQL em estruturas, garantindo conformidade com os padrões de ordenação de dados. Foi utilizado para armazenar os dados presentes no sistema, assegurando a integridade e a eficiência do gerenciamento de informações.
 
-- JavaScript - Tive estudos no 4° semestres voltada para essa tecnologia e coloquei em prática em um projeto no 5° semestre, possuo conhecimento básico.
+- MongoDB - MongoDB é um sistema de gerenciamento de banco de dados NoSQL que utiliza documentos semelhantes a JSON com esquemas dinâmicos. No projeto ele foi utilizado para armazenar e gerenciar dados não estruturados e semi-estruturados. 
 
-- C - Tive uma matéria voltada para o estudo dessa tecnologia no 2° semestre, possuo conhecimento básico. 
+### Contribuições pessoais 
 
-- PHP - Desenvolvi em um projeto no 3° semestre, possuo conhecimento básico. 
+Neste projeto, atuei diretamente no frontend, participando da criação das telas presentes no sistema e no design no Figma. Tive certa dificuldade no desenvolvimento do frontend, pois foi meu primeiro contato com a tecnologia e com esse aspecto do desenvolvimento, mas com o tempo pude entender seu funcionamento e aplicá-lo no projeto.
 
-- HTML e CSS - Desenvolvi durante o curso, tanto em projetos como em sala de aula, possuo conhecimento intermediário. 
+### Hard Skills 
 
-- React/React Native - Desenvolvi em um projeto no 5° semestre, possuo conhecimento básico. 
+- React Native - Como primeiro contato com o framework aprendi as noções básicas para a programação e sua lógica de desenvolvimento. Sei desenvolver com ajuda. 
 
-- MySQL/PostgreSQL - Tive aulas voltadas para o estudo dessa tecnologia durante os semestres, possuo conhecimento intermediário. 
+### Soft Skills 
 
-- MongoDB - Fiz dois cursos durante o 5° semestre da faculdade, possuo conhecimento básico.  
-
-- Docker - Desenvolvi em sala de aula no 5° semestre, possuo conhecimento básico. 
-
-## Meus projetos 
-
-Aqui estão todos os projetos que participei durante os semestres na Fatec São José dos Campos.
-
-- [Home Solutions - 1° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-01?tab=readme-ov-file)
-- [API - 2° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-02?tab=readme-ov-file) 
-- [Beyond Learning - 3° Semestre](https://github.com/Vitor-y/Portfolio/tree/2021-01?tab=readme-ov-file)
-- [Sirius - 4° Semestre](https://github.com/giovannialves01/Sirius)
-- [Efol-app - 5° Semestre](https://github.com/Vitor-y/eFol-app)
-- [Techguardian - 6° Semestre](https://github.com/Tech-Guardian/Doc_TechGuardian7)
+- CComunicação - Desenvolvi melhor minha habilidade de comunicação ao enfrentar a necessidade de relatar meus problemas decorrentes da falta de experiência com a tecnologia e na integração do frontend com o backend.
+- Adaptabilidade - Demonstrei capacidade de me ajustar à nova tecnologia por meio de pesquisa, prática e buscando ajuda dos professores e da equipe. Isso me permitiu entregar as tarefas dentro do prazo determinado e aplicar os conhecimentos adquiridos no projeto.
