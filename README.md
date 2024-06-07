@@ -1,5 +1,5 @@
 ## 2021 - 01
-API 4 semestre 
+No quarto semestre na Fatec, foi passado o quarto API onde trabalharíamos com a empresa parceira Embraer. A empresa parceira solicitou a criação de uma aplicação que, aprimorasse sua antiga forma manual de desenvolvimento, com uma maneira mais eficaz, segura e simples. Ao final do processo o projeto tinha autenticação de usuários, upload e download de arquivos, visualização de documentos e revisões das aeronaves.
 
 - [GitHub](https://github.com/giovannialves01/Sirius)
 
@@ -13,14 +13,15 @@ API 4 semestre
 
 ### Contribuições pessoais 
 
+Atuei no backend do projeto, dando suporte ao desenvolvimento do método de upload e download de arquivos, permitindo a exportação de arquivos em PDF com a formatação desejada pela empresa e a criação de filtros para baixar apenas os arquivos necessários. Além disso, trabalhei na estrutura do banco de dados para aceitar os arquivos solicitados.
+
 ### Hard Skills 
 
-- Java -  
-- MySQL - 
-- Figma - 
+- Java - Aperfeiçoei minhas habilidades com a linguagem e aprendi a estrutura básica de arquivos com o modelo MVC. Sei desenvolver com ajuda.
+
+- PostgreSQL - Aprendi a estruturar de maneira mais adequada o banco de dados, criando modelos físicos para o desenvolvimento. Sei desenvolver com ajuda.
 
 ### Soft Skills 
 
-- Comunicação -
-- Proatividade - 
-- Colaboração -
+- Proatividade - Tomei a iniciativa no desenvolvimento do método de upload e download de arquivos devido ao meu conhecimento prévio, além de trabalhar na estruturação do banco de dados. 
+- Colaboração - Durante o desenvolvimento do projeto, colaborei com a equipe na resolução de problemas quando houve conflitos no sistema, garantindo uma entrega adequada e dentro do prazo estipulado.
