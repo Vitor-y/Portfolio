@@ -6,9 +6,9 @@ No primeiro semestre, a Fatec apresentou o modelo de projeto API onde a Fatec at
 
 ### Tecnologias Utilizadas
 
-- Tinkercad- Tinkercad é um programa de modelagem 3D online utilizada para criação de modelos para impressão 3D, bem como uma introdução básica à geometria sólida construtiva nas escolas. Ela foi utilizada para o desenvolvimento do arduino no projeto. 
+- Tinkercad: Tinkercad é um programa de modelagem 3D online utilizado para a criação de modelos para impressão 3D, além de introduzir a geometria sólida construtiva nas escolas. No projeto, Tinkercad foi utilizado para o desenvolvimento do Arduino, facilitando a criação e simulação de circuitos eletrônicos.
 
-- MIT App Inventor - MIT App Inventor é uma linguagem de programação visual baseada em blocos onde permite que iniciantes criem aplicativos de computador para dois sistemas operacionais: Android e iOS. Ela foi utilizada para o desenvolvimento do aplicativo na versão mobile. 
+- MIT App Inventor: MIT App Inventor é uma linguagem de programação visual baseada em blocos que permite que iniciantes criem aplicativos para Android e iOS. No projeto, MIT App Inventor foi utilizado para o desenvolvimento da versão mobile do aplicativo, permitindo uma rápida prototipagem e implementação de funcionalidades.
 
 ### Contribuições pessoais 
 
