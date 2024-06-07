@@ -5,7 +5,7 @@
 - [Linkedin](https://www.linkedin.com/in/vitor-yuri-48b477213/)
 
 ## Introdução 
-Meu interesse por tecnologia vem desde a infância com os jogos de videogame, foi quando no ensino fundamental entrei para um curso de programação voltado para jogos na plataforma da unreal engine, com o passar do tempo fui me interessando cada vez mais por computadores e como eles funcionavam. Foi durante o ensino médio quando decidi em seguir carreira na área de tecnologia, comecei os estudos com programação na Fatec São José dos Campos onde atualmente estudo, já tendo trabalhado com diversos projetos e diversas tecnlogias, algumas delas sendo em Java, Python, JavaScript e entre outras linguagens e assim continuo aprimorando minhas habilidades até hoje. 
+Meu interesse por tecnologia começou na infância com os jogos de videogame. No ensino fundamental, participei de um curso de programação voltado para jogos na plataforma Unreal Engine. Com o passar do tempo, fui me interessando cada vez mais por computadores e pelo seu funcionamento. Foi durante o ensino médio que decidi seguir carreira na área de tecnologia. Iniciei meus estudos em programação na Fatec São José dos Campos, onde atualmente estudo. Já trabalhei em diversos projetos e com várias tecnologias, incluindo Java, Python e JavaScript, entre outras linguagens. Continuo aprimorando minhas habilidades até hoje.
 
 ## Meus principais conhecimentos 
 
@@ -33,9 +33,9 @@ Meu interesse por tecnologia vem desde a infância com os jogos de videogame, fo
 
 Aqui estão todos os projetos que participei durante os semestres na Fatec São José dos Campos.
 
-- [Home Solutions - 1° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-01?tab=readme-ov-file)
-- [API - 2° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-02?tab=readme-ov-file) 
-- [Beyond Learning - 3° Semestre](https://github.com/Vitor-y/Portfolio/tree/2021-01?tab=readme-ov-file)
-- [Sirius - 4° Semestre](https://github.com/giovannialves01/Sirius)
-- [Efol-app - 5° Semestre](https://github.com/Vitor-y/eFol-app)
-- [Techguardian - 6° Semestre](https://github.com/Tech-Guardian/Doc_TechGuardian7)
+- [Home Solutions - 1° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-01)
+- [API - 2° Semestre](https://github.com/Vitor-y/Portfolio/tree/2020-02) 
+- [Beyond Learning - 3° Semestre](https://github.com/Vitor-y/Portfolio/tree/2021-01)
+- [Sirius - 4° Semestre](https://github.com/Vitor-y/Portfolio/tree/2021-02)
+- [Efol-app - 5° Semestre](https://github.com/Vitor-y/Portfolio/tree/2022-01)
+- [Techguardian - 6° Semestre](https://github.com/Vitor-y/Portfolio/tree/2024-01)
