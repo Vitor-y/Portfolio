@@ -16,8 +16,8 @@ Durante o desenvolvimento do projeto, trabalhei junto com a equipe na solução 
 
 ### Hard Skills 
 
-- Tinkercad - Aprendi as noções básicas de um arduino como sua parte elétrica e lógica, sei desenvolver com ajuda. 
-- MIT App Inventor - Tive uma introdução básica para a programação e sua lógica de desenvolvimento, sei desenvolver com ajuda. 
+- Tinkercad - Aprendi as noções básicas de um arduino como sua parte elétrica e lógica. Sei desenvolver com ajuda. 
+- MIT App Inventor - Tive uma introdução básica para a programação e sua lógica de desenvolvimento. Sei desenvolver com ajuda. 
 
 ### Soft Skills 
 
