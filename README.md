@@ -19,7 +19,9 @@ Em breve
 
 ### Hard Skills 
 
-Em breve
+- Java com Spring Boot -
+- Mysql - 
+- Vue.js - 
 
 ### Soft Skills 
 
