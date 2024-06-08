@@ -25,5 +25,5 @@ Atuei diretamente no desenvolvimento do backend em Java, construindo toda a sua 
 
 ### Soft Skills 
 
-Comunicação - Essencial para o andamento do projeto, mantive contato diário com a equipe por meio de dailys, além de estar sempre em comunicação com o master e o PO da equipe para acompanhar os prazos das entregas. Notificava-os sempre que havia necessidade de mudanças ou dúvidas em relação às tarefas.
-Proatividade - Tomei a iniciativa para resolver conflitos na conexão do backend com o frontend e encontrar soluções para o controle de acesso. Também lidei com mudanças no backlog do projeto, propondo soluções e ajustando as entregas para que se encaixassem nos prazos estipulados e estivessem alinhadas com a proposta do que iríamos entregar. 
+- Comunicação - Essencial para o andamento do projeto, mantive contato diário com a equipe por meio de dailys, além de estar sempre em comunicação com o master e o PO da equipe para acompanhar os prazos das entregas. Notificava-os sempre que havia necessidade de mudanças ou dúvidas em relação às tarefas.
+- Proatividade - Tomei a iniciativa para resolver conflitos na conexão do backend com o frontend e encontrar soluções para o controle de acesso. Também lidei com mudanças no backlog do projeto, propondo soluções e ajustando as entregas para que se encaixassem nos prazos estipulados e estivessem alinhadas com a proposta do que iríamos entregar. 
