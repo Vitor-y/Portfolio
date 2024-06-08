@@ -5,13 +5,13 @@ No sexto semestre na Fatec, foi passado o sexto API, onde trabalharíamos com a 
 
 ### Tecnologias Utilizadas
 
-- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.
+- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
 
-- Python - Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi utilizada para o desenvolvimento da IA presente no sistema. 
+- Python - Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. **Foi utilizada para o desenvolvimento da IA presente no sistema.** 
 
-- Vue.js - Vue.js é um framework progressivo de JavaScript usado para construir interfaces de usuário.
+- Vue.js - Vue.js é um framework progressivo de JavaScript usado para construir interfaces de usuário. **Foi utilizado para o desenvolvimento do frontend presente no projeto.**
 
-- MySQL - MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.
+- MySQL - MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. **Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.**
 
 ### Contribuições pessoais 
 
@@ -19,9 +19,9 @@ Atuei diretamente no desenvolvimento do backend em Java, construindo toda a sua 
 
 ### Hard Skills 
 
-- Java com Spring Boot - Aperfeiçoei minhas habilidades com a linguagem. Sei desenvolver com autonomia. 
-- Mysql - Aperfeiçoei minhas habilidades com o banco de dados. Sei desenvolver com autonomia. 
-- Vue.js - Aprendi as noções básicas do framework e sua lógica de desenvolvimento. Sei desenvolver com ajuda. 
+- Java com Spring Boot - Aperfeiçoei minhas habilidades com a linguagem. **Sei desenvolver com autonomia.**
+- Mysql - Aperfeiçoei minhas habilidades com o banco de dados. **Sei desenvolver com autonomia.**
+- Vue.js - Aprendi as noções básicas do framework e sua lógica de desenvolvimento. **Sei desenvolver com ajuda.**
 
 ### Soft Skills 
 
