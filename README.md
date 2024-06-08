@@ -5,15 +5,15 @@ No terceiro semestre na Fatec, foi passado o terceiro API onde trabalharíamos c
 
 ### Tecnologias Utilizadas
 
-- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.
+- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
 
--  MySQL - MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.
+-  MySQL - MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. **Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.**
 
-- HTML, CSS e JavaScript - HTML é uma linguagem de marcação utilizada para estruturar os elementos da página; CSS é uma linguagem de estilos utilizada para definir cores, fontes, tamanhos, etc.; JavaScript é uma linguagem de programação utilizada para tornar a página mais dinâmica, lidando também com os dados enviados e recebidos na página.
+- HTML, CSS e JavaScript - HTML é uma linguagem de marcação utilizada para estruturar os elementos da página; CSS é uma linguagem de estilos utilizada para definir cores, fontes, tamanhos, etc.; JavaScript é uma linguagem de programação utilizada para tornar a página mais dinâmica, lidando também com os dados enviados e recebidos na página. **Foram utilizadas no frontend do projeto, criando uma interface de usuário interativa e responsiva.**
 
-- Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript.
+- Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. **Utilizado para criar os componentes presentes do frontend.**
 
-- Figma - Figma é uma plataforma colaborativa para construção de design de interfaces e protótipos. Foi utilizado para a construção do design do projeto. 
+- Figma - Figma é uma plataforma colaborativa para construção de design de interfaces e protótipos. **Foi utilizado para a construção do design do projeto.**
 
 ### Contribuições pessoais 
 
@@ -21,9 +21,9 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master da equipe, tendo t
 
 ### Hard Skills 
 
-- Java - Meu segundo contato com a linguagem, pude aperfeiçoar minha lógica de programação e trabalhar na conexão com o banco de dados. Sei desenvolver com ajuda. 
-- MySQL - Aprendi a arquitetar o banco para receber diferentes tipos de arquivo. Sei desenvolver com ajuda.  
-- Figma - Meu primeiro contato com a plataforma, aprendi conceitos básicos de UI/UX como elementos de layout, cores, ícones, botões e a experiência geral do usuário ao interagir com o produto. Sei desenvolver com autonômia. 
+- Java - Meu segundo contato com a linguagem, pude aperfeiçoar minha lógica de programação e trabalhar na conexão com o banco de dados. **Sei desenvolver com ajuda.**
+- MySQL - Aprendi a arquitetar o banco para receber diferentes tipos de arquivo. **Sei desenvolver com ajuda.**
+- Figma - Meu primeiro contato com a plataforma, aprendi conceitos básicos de UI/UX como elementos de layout, cores, ícones, botões e a experiência geral do usuário ao interagir com o produto. **Sei desenvolver com autonômia.**
 
 ### Soft Skills 
 
