@@ -17,7 +17,7 @@ No terceiro semestre na Fatec, foi passado o terceiro API onde trabalharíamos c
 
 ### Contribuições pessoais 
 
-Durante o desenvolvimento do projeto, atuei como Scrum Master da equipe, tendo também pequenas participações no backend do projeto. Como Scrum Master, fiquei responsável por garantir que o time de desenvolvimento entendesse e seguisse os princípios e práticas do Scrum. Fiz uso das reuniões diárias (Daily Scrum), Revisão da Sprint (Sprint Review) e Planejamento da Sprint (Sprint Planning), ajudando a equipe a se manter focada, a resolver impedimentos e a alcançar os objetivos da sprint. Além disso, atuei como facilitador entre a equipe de desenvolvimento e outras partes interessadas. No backend, trabalhei no sistema de upload e download de arquivos da plataforma e na estrutura do banco de dados para aceitar os arquivos solicitados. 
+Durante o desenvolvimento do projeto, atuei como Scrum Master da equipe, tendo também pequenas participações no backend do projeto. Como Scrum Master, fiquei responsável por garantir que o time de desenvolvimento entendesse e seguisse os princípios e práticas do Scrum. Fiz uso das reuniões diárias (Daily Scrum), Revisão da Sprint (Sprint Review) e Planejamento da Sprint (Sprint Planning), ajudando a equipe a se manter focada, a resolver impedimentos e a alcançar os objetivos da sprint. Além disso, atuei como facilitador entre a equipe de desenvolvimento e a empresa parceira. No backend, trabalhei no sistema de upload e download de arquivos da plataforma e na estrutura do banco de dados para aceitar os arquivos solicitados. 
 
 ### Hard Skills 
 
@@ -28,5 +28,4 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master da equipe, tendo t
 ### Soft Skills 
 
 - Comunicação - Como Master mantive uma comunicação transparente e aberta com todos os membros da equipe, garantindo que todos os membros estivessem alinhados com os objetivos do projeto. 
-- Proatividade - Tomei medidas proativas para resolver conflitos e encontrar soluções criativas para desafios complexos, garantindo o sucesso do projeto. Também lidei com mudanças que ocorreram durante o projeto ajustando as necessidades conforme era necessário.
 - Colaboração - Trabalhei de forma ativa com a equipe dando suporte em diferentes funcionalidades do sistema e nos elementos de layout para o frontend.
