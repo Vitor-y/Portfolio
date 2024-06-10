@@ -1,7 +1,7 @@
 ## 2021 - 01
 No terceiro semestre na Fatec, foi passado o terceiro API onde trabalharíamos com a empresa parceira Ness Health. A empresa buscava desenvolver uma plataforma web voltada ao ensino à distância para a gestão e oferta de conhecimento, dando suporte às mais diversas arquiteturas de aprendizagem, utilizando o LMS (Learning Management System), uma ferramenta de aprendizado à distância com uma metodologia de alta desenvoltura, facilitando para empresas prepararem seus colaboradores em treinamentos. A plataforma web deve aceitar a publicação de arquivos SCORM, MP4, MP3, PDF, JPEG e PNG. Seu layout deve ser de fácil customização, possuindo templates pré-definidos, trazendo autonomia para gestão da plataforma.
 
-- [GitHub](https://github.com/fCardosoNeto/Beyond-Learning)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=696969)](https://github.com/fCardosoNeto/Beyond-Learning)
 
 <img src="https://github.com/fCardosoNeto/Beyond-Learning/blob/main/doc/Wireframe/Index.gif"/> 
 <img src="https://github.com/fCardosoNeto/Beyond-Learning/blob/main/doc/Wireframe/Auto%20Registro.gif"/> 
