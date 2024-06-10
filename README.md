@@ -1,5 +1,5 @@
 ## 2024 - 01
-No sexto semestre na Fatec, foi passado o sexto API, onde trabalharíamos com a empresa parceira Pro4Tech. O objetivo do projeto era desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisavam ser gerenciados e monitorados com precisão. O sistema visava fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
+No sexto semestre na Fatec, foi passado o sexto API, onde trabalharíamos com a empresa parceira Altave. O objetivo do projeto era desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisavam ser gerenciados e monitorados com precisão. O sistema visava fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=696969)](https://github.com/Tech-Guardian/Doc_TechGuardian7)
 
