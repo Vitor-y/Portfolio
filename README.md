@@ -3,17 +3,26 @@ No terceiro semestre na Fatec, foi passado o terceiro API onde trabalharíamos c
 
 - [GitHub](https://github.com/fCardosoNeto/Beyond-Learning)
 
+<img src="https://github.com/fCardosoNeto/Beyond-Learning/blob/main/doc/Wireframe/Index.gif"/> 
+<img src="https://github.com/fCardosoNeto/Beyond-Learning/blob/main/doc/Wireframe/Auto%20Registro.gif"/> 
+<img src="https://github.com/fCardosoNeto/Beyond-Learning/blob/main/doc/Wireframe/Upload%20de%20Arquivos.gif"/> 
+
 ### Tecnologias Utilizadas
 
-- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
 
--  MySQL - MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. **Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.**
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=orange&color=696969)
+- MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. **Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.**
 
-- HTML, CSS e JavaScript - HTML é uma linguagem de marcação utilizada para estruturar os elementos da página; CSS é uma linguagem de estilos utilizada para definir cores, fontes, tamanhos, etc.; JavaScript é uma linguagem de programação utilizada para tornar a página mais dinâmica, lidando também com os dados enviados e recebidos na página. **Foram utilizadas no frontend do projeto, criando uma interface de usuário interativa e responsiva.**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- HTML é uma linguagem de marcação utilizada para estruturar os elementos da página; CSS é uma linguagem de estilos utilizada para definir cores, fontes, tamanhos, etc.; JavaScript é uma linguagem de programação utilizada para tornar a página mais dinâmica, lidando também com os dados enviados e recebidos na página. **Foram utilizadas no frontend do projeto, criando uma interface de usuário interativa e responsiva.**
 
-- Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. **Utilizado para criar os componentes presentes do frontend.**
+![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000&color=696969)
+- Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. **Utilizado para criar os componentes presentes do frontend.**
 
-- Figma - Figma é uma plataforma colaborativa para construção de design de interfaces e protótipos. **Foi utilizado para a construção do design do projeto.**
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+- Figma é uma plataforma colaborativa para construção de design de interfaces e protótipos. **Foi utilizado para a construção do design do projeto.**
 
 ### Contribuições pessoais 
 
