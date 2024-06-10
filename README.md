@@ -3,10 +3,12 @@ No segundo semestre na Fatec, foi passado o segundo API onde trabalharíamos com
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y/Projeto-Integrador)
 
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif" width="500" /> <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif" width="500" />
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="500" /> <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="500" />
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Criar_Entrega.gif" width="500" h/> <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Usu%C3%A1rio.gif" width="500" />
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Entrega_Usu%C3%A1rio.gif" width="500" />
+| ![Tela Login Admin](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif) | ![Tela Admin](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif) |
+|:---:|:---:|
+| ![Tela Cadastro Usuário](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif) | ![Tela Cadastro Veículo](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif) |
+| ![Tela Criar Entrega](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Criar_Entrega.gif) | ![Tela Login Usuário](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Usu%C3%A1rio.gif) |
+| ![Tela Entrega Usuário](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Entrega_Usu%C3%A1rio.gif) | |
+
 
 ### Tecnologias Utilizadas
 
