@@ -1,13 +1,21 @@
 ## 2020 - 02
 No segundo semestre na Fatec, foi passado o segundo API onde trabalharíamos com a empresa parceira IACIT, uma empresa que trabalha com capacitação tecnológica para o desenvolvimento de sistemas aplicados às áreas relacionadas à comunicação. A empresa queria uma solução que melhorasse a autonomia e a comunicação entre os caminhoneiros e os clientes colaboradores. Neste trabalho, minha equipe desenvolveu um sistema que permitia a manutenção de dados pessoais dos motoristas e de seus veículos, manter o funcionário informado sobre sua jornada de trabalho, acompanhamento das entregas a serem feitas e a possibilidade de escolher o funcionário e o veículo para efetuar a entrega.
 
-- [GitHub](https://github.com/Vitor-y/Projeto-Integrador)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y/Projeto-Integrador)
+
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif" width="500" /> <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif" width="500" />
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="500" /> <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="500" />
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Criar_Entrega.gif" width="500" h/> <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Usu%C3%A1rio.gif" width="500" />
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Entrega_Usu%C3%A1rio.gif" width="500" />
 
 ### Tecnologias Utilizadas
 
-- Java - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
 
-- PostgreSQL - PostgreSQL é um sistema gerenciador de banco de dados relacional que foca na implementação da linguagem SQL em estruturas, garantindo conformidade com os padrões de ordenação de dados. **Foi utilizado para armazenar os dados presentes no sistema, assegurando a integridade e a eficiência do gerenciamento de informações.**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&color=fff)
+- PostgreSQL é um sistema gerenciador de banco de dados relacional que foca na implementação da linguagem SQL em estruturas, garantindo conformidade com os padrões de ordenação de dados. **Foi utilizado para armazenar os dados presentes no sistema, assegurando a integridade e a eficiência do gerenciamento de informações.**
 
 ### Contribuições pessoais 
 
