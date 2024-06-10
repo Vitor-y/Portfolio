@@ -1,19 +1,29 @@
 ## 2022 - 01
 No quinto semestre na Fatec, foi passado o quinto API onde trabalharíamos em parceria novamente com a Embraer. Neste projeto, a empresa solicitou um aplicativo móvel que pudesse notificar os clientes sobre atualizações das FOLs (arquivos em PDF referentes a problemas ou modificações nos automóveis). Além disso, eles queriam uma aplicação web para gerenciar os dados e informações dos seus clientes.
 
-- [GitHub](https://github.com/Vitor-y/eFol-app)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=696969)](https://github.com/Vitor-y/eFol-app)
+
+<div style="display: flex;">
+  <img src="https://github.com/Vitor-y/eFol-app/blob/main/docs/Wireframes/Sprint%202/application.gif"/> 
+  <img src="https://github.com/Vitor-y/eFol-app/blob/main/docs/Wireframes/Sprint%201/Search-doc.gif"/> 
+</div>
 
 ### Tecnologias Utilizadas
 
-- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
 
-- Python - Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legibilidade, o que facilita o desenvolvimento rápido e eficiente de aplicações. **Foi utilizado para o desenvolvimento do sistema de login e autenticação presentes no projeto.**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legibilidade, o que facilita o desenvolvimento rápido e eficiente de aplicações. **Foi utilizado para o desenvolvimento do sistema de login e autenticação presentes no projeto.**
 
-- React Native - React Native é um framework de desenvolvimento de aplicativos móveis que permite criar aplicações para Android e iOS utilizando JavaScript e React. **No projeto, React Native foi utilizado para desenvolver o aplicativo móvel proporcionando uma experiência de usuário nativa e responsiva.**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- React Native é um framework de desenvolvimento de aplicativos móveis que permite criar aplicações para Android e iOS utilizando JavaScript e React. **No projeto, React Native foi utilizado para desenvolver o aplicativo móvel proporcionando uma experiência de usuário nativa e responsiva.**
 
-- PostgreSQL - PostgreSQL é um sistema gerenciador de banco de dados relacional que foca na implementação da linguagem SQL em estruturas, garantindo conformidade com os padrões de ordenação de dados. **Foi utilizado para armazenar os dados presentes no sistema, assegurando a integridade e a eficiência do gerenciamento de informações.**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=blue&color=696969)
+- PostgreSQL é um sistema gerenciador de banco de dados relacional que foca na implementação da linguagem SQL em estruturas, garantindo conformidade com os padrões de ordenação de dados. **Foi utilizado para armazenar os dados presentes no sistema, assegurando a integridade e a eficiência do gerenciamento de informações.**
 
-- MongoDB - MongoDB é um sistema de gerenciamento de banco de dados NoSQL que utiliza documentos semelhantes a JSON com esquemas dinâmicos. **No projeto ele foi utilizado para armazenar e gerenciar dados não estruturados e semi-estruturados.** 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- MongoDB é um sistema de gerenciamento de banco de dados NoSQL que utiliza documentos semelhantes a JSON com esquemas dinâmicos. **No projeto ele foi utilizado para armazenar e gerenciar dados não estruturados e semi-estruturados.** 
 
 ### Contribuições pessoais 
 
