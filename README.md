@@ -16,7 +16,7 @@ No segundo semestre na Fatec, foi passado o segundo API onde trabalharíamos com
 - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
 
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&color=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=blue&color=696969)
 - PostgreSQL é um sistema gerenciador de banco de dados relacional que foca na implementação da linguagem SQL em estruturas, garantindo conformidade com os padrões de ordenação de dados. **Foi utilizado para armazenar os dados presentes no sistema, assegurando a integridade e a eficiência do gerenciamento de informações.**
 
 ### Contribuições pessoais 
