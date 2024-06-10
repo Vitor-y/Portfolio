@@ -1,7 +1,7 @@
 ## 2020 - 02
 No segundo semestre na Fatec, foi passado o segundo API onde trabalharíamos com a empresa parceira IACIT, uma empresa que trabalha com capacitação tecnológica para o desenvolvimento de sistemas aplicados às áreas relacionadas à comunicação. A empresa queria uma solução que melhorasse a autonomia e a comunicação entre os caminhoneiros e os clientes colaboradores. Neste trabalho, minha equipe desenvolveu um sistema que permitia a manutenção de dados pessoais dos motoristas e de seus veículos, manter o funcionário informado sobre sua jornada de trabalho, acompanhamento das entregas a serem feitas e a possibilidade de escolher o funcionário e o veículo para efetuar a entrega.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y/Projeto-Integrador)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=696969)](https://github.com/Vitor-y/Projeto-Integrador)
 
 | ![Tela Login Admin](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif) | ![Tela Admin](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif) |
 |:---:|:---:|
