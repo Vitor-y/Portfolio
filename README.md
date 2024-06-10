@@ -1,17 +1,21 @@
 ## 2024 - 01
 No sexto semestre na Fatec, foi passado o sexto API, onde trabalharíamos com a empresa parceira Pro4Tech. O objetivo do projeto era desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisavam ser gerenciados e monitorados com precisão. O sistema visava fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
 
-- [GitHub](https://github.com/Tech-Guardian/Doc_TechGuardian7)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=696969)](https://github.com/Tech-Guardian/Doc_TechGuardian7)
 
 ### Tecnologias Utilizadas
 
-- Java com Spring Boot - Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- Java é uma linguagem de programação orientada a objetos conhecida por sua portabilidade, permitindo execução em diferentes plataformas sem recompilação e Spring Boot é um framework que facilita a criação de aplicações Java, simplificando a configuração e a integração de componentes. **No projeto, Java foi fundamental para o backend, realizando a conexão e manipulação dos dados no banco de dados e desenvolvendo as funcionalidades do sistema.**
 
-- Python - Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. **Foi utilizada para o desenvolvimento da IA presente no sistema.** 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. **Foi utilizada para o desenvolvimento da IA presente no sistema.** 
 
-- Vue.js - Vue.js é um framework progressivo de JavaScript usado para construir interfaces de usuário. **Foi utilizado para o desenvolvimento do frontend presente no projeto.**
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- Vue.js é um framework progressivo de JavaScript usado para construir interfaces de usuário. **Foi utilizado para o desenvolvimento do frontend presente no projeto.**
 
-- MySQL - MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. **Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.**
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=orange&color=696969)
+- MySQL é um sistema gerenciador de banco de dados relacional que utiliza a linguagem SQL (Structured Query Language) para inserir, acessar e gerenciar o conteúdo armazenado no banco de dados. **Foi utilizado para armazenar os dados presentes no sistema, garantindo sua integridade e disponibilidade.**
 
 ### Contribuições pessoais 
 
