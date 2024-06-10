@@ -1,7 +1,7 @@
 ## 2020 - 01
 No primeiro semestre, a Fatec apresentou o modelo de projeto API onde a Fatec atuaria como uma empresa e apresentaria um problema para nós solucionarmos. Neste primeiro trabalho, minha equipe desenvolveu um aplicativo mobile voltado para automação, onde o sistema teria controle na iluminação e das persianas da residência. A partir disso, o usuário poderá adicionar perfis para cada cômodo da casa, além de um timer para definir quanto tempo a lâmpada ficará acessa para aquele cômodo.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eusoutheu/homesolutions)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=696969)](https://github.com/eusoutheu/homesolutions)
 - [Youtube](https://youtu.be/9zbqYkU-me4) 
 
 ### Tecnologias Utilizadas
